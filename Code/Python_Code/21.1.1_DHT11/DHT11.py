@@ -7,7 +7,7 @@
 ########################################################################
 import RPi.GPIO as GPIO
 import time
-import Freenove_DHT as DHT
+import QS_DHT as DHT
 DHTPin = 11     #define the pin of DHT11
 
 def loop():
