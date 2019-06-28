@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #############################################################################
-# Filename    : Freenove_DHT.py
+# Filename    : QS_DHT.py
 # Description :	DHT Temperature & Humidity Sensor library for Raspberry
 # Author      : www.quadstore.in
 # modification: 2018/08/03

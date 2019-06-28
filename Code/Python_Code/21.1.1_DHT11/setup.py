@@ -2,12 +2,12 @@
 from setuptools import setup,find_packages
 
 setup(
-	name = "Freenove_DHT",
+	name = "QS_DHT",
 	version = "V1.0.0",
 	description = "Read DHT Sensor",
-	author = "Freenove",
-	url = "http://www.freenove.com",
+	author = "Quad Store",
+	url = "http://www.quadstore.in",
 	license = " ",
 	packages = find_packages(),
-	scripts = ["Freenove_DHT.py"],
+	scripts = ["QS_DHT.py"],
 	)
